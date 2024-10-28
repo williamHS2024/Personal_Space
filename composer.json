@@ -1,0 +1,21 @@
+{
+    "name": "william/personal_space",
+    "description": "Proyecto con e fin de practica la creacionde interfaces retro o viejas",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files":
+        ["app/helpers/helpers_function.php"]
+    },
+    "authors": [
+        {
+            "name": "william"
+        }
+    ],
+    "require": {
+        "easy-projects/simple-router": "^7.6"
+    }
+}

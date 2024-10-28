@@ -1,0 +1,24 @@
+{
+  "name": "personal_space",
+  "version": "1.0.0",
+  "description": "Proyecto Personal de Practica NPM Node JS Packages",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss: public/build/css",
+    "sassCreate": "sass --watch src/scss: public/build/css",
+    "dev": "gulp dev",
+    "devCreate": "gulp devCreateCSS"
+  },
+  "keywords": [
+    "npm",
+    "packages"
+  ],
+  "author": "william",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.78.0"
+  }
+}

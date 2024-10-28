@@ -1,0 +1,60 @@
+🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 
+🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 
+
+Proyecto con la finalidad de crear una interfaz 
+con estilo retro.
+Nada mas.
+
+Es unico proposito es la de practicar.
+
+
+Tecnologias, Frameworks, Libraries utilizadas
+
+Composer
+Node JS
+SASS
+Gulpfile
+Gsap
+MVC
+
+Imagenes
+Sauces:
+    icons8
+
+Notas del autor:
+Posiblemente esta alojada en Vecel (Esperando que soporte PHP)
+
+🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 
+🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 
+
+Paginas
+
+Index
+    Porporcionar info basica sobre la pagina, y cual es su utilidad
+
+Login
+    Permite que los usuarios puedan iniciar session en la pagina
+
+Registro
+    Permite que las personas puedan crear una pequeño(a) avatar de su persona, junto con informacion muy basica sobre ellos
+    Los iconos por el momento seran imagenes de CCNA
+
+Mapa
+    Su finaliadad es la que los usuarios puedan visualiar otras personas logeadas, pero solo u avatar
+
+Otro usuarios   
+    Cuando se le de clic a otro usuario se podra ver una pequeña info sobre el.
+
+🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 
+🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 🛸 👾 
+
+Paleta de Colores
+
+Morado -> #A186BA
+Amarrillo -> #FDEDC8
+Verde -> #FDEDC8
+Rojo -> #FDEDC8
+Naranja -> #FCD997
+
+
+
